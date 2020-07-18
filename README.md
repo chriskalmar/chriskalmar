@@ -3,7 +3,7 @@
   <br>
   <br>
   <br>
-  <img src="dino.png" width="400" />
+  <img src="https://github.com/chriskalmar/chriskalmar/raw/master/dino.png" width="400" />
   <br>
   <br>
   <br>
